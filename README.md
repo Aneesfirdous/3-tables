@@ -1,2 +1,2 @@
 # 3-tables
-tables created using aggregate functions
+Tables created using aggregate functions
